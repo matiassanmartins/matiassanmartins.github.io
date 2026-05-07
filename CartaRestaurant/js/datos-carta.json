@@ -1,0 +1,734 @@
+[
+    {
+        "categoria": "Bebidas",
+        "icono":"local_drink",
+        "stock":[
+            {
+                "titulo":"Bebida Lata Variedades",
+                "precio":"$3.500",
+                "descripcion":"Cola-Cola Original, Coca-Cola sin Azúcar, Fanta, Sprite, Sprite sin Azúcar",
+                "img":"cocacola.png"
+            },
+            {
+                "titulo":"Jugos Naturales",
+                "precio":"$3.980",
+                "descripcion":"Consultar opciones disponibles",
+                "img":"jugo-natural.png"
+            },
+            {
+                "titulo":"Mojito Cubano",
+                "precio":"$7.500",
+                "descripcion":"",
+                "img":"mojito-cubano.png"
+            },
+            {
+                "titulo":"Mojito Fidel 1Lt",
+                "precio":"$12.980",
+                "descripcion":"",
+                "img":"mojito-fidel-e1756175194520.png"
+            },
+            {
+                "titulo":"Pisco Sour a la Peruana",
+                "precio":"$7.500",
+                "descripcion":"",
+                "img":"pisco-sour-a-la-peruana.png"
+            },
+            {
+                "titulo":"Pisco Sour Catedral",
+                "precio":"$8.900",
+                "descripcion":"",
+                "img":"catedral.png"
+            },
+            {
+                "titulo":"Pisco Sour Nacional",
+                "precio":"$6.200",
+                "descripcion":"",
+                "img":"pisco-sour-catedral.png"
+            },
+            {
+                "titulo":"Cerveza Kunstmann Torobayo",
+                "precio":"$5.500",
+                "descripcion":"",
+                "img":"torobayo.webp"
+            },
+            {
+                "titulo":"Cerveza Corona",
+                "precio":"$4.600",
+                "descripcion":"",
+                "img":"cerveza-corona.png"
+            },
+            {
+                "titulo":"Shop Cristal",
+                "precio":"$4.500",
+                "descripcion":"",
+                "img":"shop-cristal.png"
+            },
+            {
+                "titulo":"Shop Kunstmann Torobayo",
+                "precio":"$6.980",
+                "descripcion":"",
+                "img":"cerveza-kunstmann.png"
+            }
+        ]
+    },
+    {
+        "categoria":"Para Compartir",
+        "icono":"diversity_3",
+        "stock":[
+            {
+                "titulo":"Arrollado con Pebre",
+                "precio":"$8.980",
+                "descripcion":"Preparacion típica Chilena a base de cerdo y condimentos, acompañado de nuestro delicioso pebre y crujientes sopaipillas.",
+                "img":"arrollado-con-pebre-e1756170380447.png"
+            },
+            {
+                "titulo":"Camarones a la Orden",
+                "precio":"$10.680",
+                "descripcion":"(Pil pil, ajillo, provenzal, salteados) Porción de camarones salteados en el momento saborizados a gusto del comensal.",
+                "img":"camarones-a-la-orden.png"
+            },
+            {
+                "titulo":"Ceviche Mixto",
+                "precio":"$12.980",
+                "descripcion":"Pescado crudo y camarones ecuatorianos marinado en aliños cítricos con choclo peruano, cebolla y cilantro frescos.",
+                "img":"ceviche-mixto.png"
+            },
+            {
+                "titulo":"Consomé Carolina",
+                "precio":"$5.980",
+                "descripcion":"",
+                "img":"consome-carolina.png"
+            },
+            {
+                "titulo":"Crudo de Res",
+                "precio":"$12.500",
+                "descripcion":"Deliciosa mezcla de carne picada cruda, cebolla, pepinillo y cilantro, marinado en una limoneta, acompañado de tostadas de pan.",
+                "img":"crudo-de-res.png"
+            },
+            {
+                "titulo":"Empanada de Pino",
+                "precio":"$4.500",
+                "descripcion":"Crujiente masa horneada rellena pino de carne y cebolla con huevo duro, aceitunas y pasas.",
+                "img":"empanada-de-pino.png"
+            },
+            {
+                "titulo":"Empanaditas a la Orden",
+                "precio":"$8.800",
+                "descripcion":"6un de empanadas fritas a gusto del comensal, pueden ser de queso, pino o surtidas.",
+                "img":"empanadas-a-la-orden.png"
+            },
+            {
+                "titulo":"Machas A La Parmesana",
+                "precio":"$14.500",
+                "descripcion":"Machas en su concha con variedades de quesos gratinadas.",
+                "img":"machas-a-la-parmesana.png"
+            },
+            {
+                "titulo":"Mollejas a la Provenzal",
+                "precio":"$12.980",
+                "descripcion":"Mollejas de vacuno bien doradas",
+                "img":"mollejas-a-la-provenzal.png"
+            },
+            {
+                "titulo":"Queso Provoleta",
+                "precio":"$8.980",
+                "descripcion":"Sabrozo queso asado a la plancha saborizado con oregano",
+                "img":"provoleta.png"
+            },
+            {
+                "titulo":"Sopaipillas con Pebre",
+                "precio":"$5.580",
+                "descripcion":"Masa típica Chilena a base de zapallo camote frita acompañado de pebre",
+                "img":"sopaipillas-con-pebre.png"
+            },
+            {
+                "titulo":"Tabla a la Leña",
+                "precio":"$29.000",
+                "descripcion":"Selección de carnes ahumadas, consta de costillar bbq y a la chilena, arrollado de huaso y brisket de vacuno acompañado de papas rústicas.",
+                "img":"Tabla-a-la-lena.png"
+            },
+            {
+                "titulo":"Tabla de Achuras",
+                "precio":"$23.500",
+                "descripcion":"Tabla en base a interiores contiene chunchules a la parrilla, prietas y chorizos a la parrilla, y mollejas a la provenzal.",
+                "img":"tabla-achuras.png"
+            },
+            {
+                "titulo":"Tabla Marina",
+                "precio":"$29.000",
+                "descripcion":"Esta tabla contiene ceviche de estilo limeño con bastones de pescado y camarones salteados.",
+                "img":"tabla-marina.png"
+            }
+        ]
+    },
+    {
+        "categoria":"Especialidades",
+        "icono":"award_meal",
+        "stock":[
+            {
+                "titulo":"Arrollado Fondo",
+                "precio":"$12.980",
+                "descripcion":"",
+                "img":"arrollado-fondo.png"
+            },
+            {
+                "titulo":"Cazuela de Vacuno",
+                "precio":"$12.980",
+                "descripcion":"Sopa típica chilena de asado de tira con zapallo, papa, choclo, verduras de la estación y arroz.",
+                "img":"cazuela-vacuno.png"
+            },
+            {
+                "titulo":"Chanchito Campero",
+                "precio":"$14.980",
+                "descripcion":"Preparación mas premiado en los buenos muchachos en base a costillar de cerdo cocinado durante 10 hrs en una cama de vegetales y callampas secas. Acompañado de puré aromatizado al ajo",
+                "img":"chanchito-campero.png"
+            },
+            {
+                "titulo":"Escalopa Milanesa",
+                "precio":"$10.580",
+                "descripcion":"Corte delgado de carne de vacuno, apanada y frita acompañado de una mini ensalada criolla.",
+                "img":"escalopa-milanesa.png"
+            },
+            {
+                "titulo":"Filete Pimienta",
+                "precio":"$14.980",
+                "descripcion":"",
+                "img":"filete-pimienta.png"
+            },
+            {
+                "titulo":"Lomo Saltado a la Peruana",
+                "precio":"$14.980",
+                "descripcion":"Trozos de lomo de carne, tomate y cebolla, servidos junto a crocantes papas fritas y arroz.",
+                "img":"lomo-saltado-a-la-peruana.png"
+            },
+            {
+                "titulo":"Milanesa a lo Pobre",
+                "precio":"$14.980",
+                "descripcion":"Corte delgado de carne de vacuno, apanada y frita acompañado de crujientes papas fritas, huevo frito y cebollla estofada",
+                "img":"milanesa-a-lo-pobre.png"
+            },
+            {
+                "titulo":"Milanesa Napolitana",
+                "precio":"$14.980",
+                "descripcion":"Corte delgado de carne de vacuno, apanada y frita, sobre esta lleva salsa pomodoro, queso, tomate y salsa pesto acompañado de crujientes papas fritas.",
+                "img":"milanesa-napolitana.png"
+            },
+            {
+                "titulo":"Pastel de Choclo",
+                "precio":"$11.980",
+                "descripcion":"Plato típico chileno el cual contiene una base de pino de carne, pollo asado, huevo duro, aceitunas y pasas, y sobre este una tierna pasta de choclo",
+                "img":"pastel-de-choclo.png"
+            },
+            {
+                "titulo":"Plateada Ahumada",
+                "precio":"$13.980",
+                "descripcion":"",
+                "img":"plateada.png"
+            },
+            {
+                "titulo":"Plateada Al Jugo",
+                "precio":"$14.980",
+                "descripcion":"Plateada en su salsa cocinada por 12 horas en cocción lenta. Acompañado de pastelera de choclo.",
+                "img":"plateada-al-jugo.png"
+            },
+            {
+                "titulo":"Pollo Saltado a la Peruana",
+                "precio":"$14.980",
+                "descripcion":"Trozos de pollo deshuesado, tomate y cebolla, servidos junto a crocantes papas fritas y arroz.",
+                "img":"pollo-saltado-a-la-peruana.png"
+            },
+            {
+                "titulo":"Risotto Vegano",
+                "precio":"$12.000",
+                "descripcion":"",
+                "img":"risotto-vegano.png"
+            },
+            {
+                "titulo":"Lomo Saltado con Risotto",
+                "precio":"$14.980",
+                "descripcion":"",
+                "img":"IMG_8425-scaled.jpg"
+            }
+        ]
+    },
+    {
+        "categoria":"A la Parrilla",
+        "icono":"outdoor_grill",
+        "stock":[
+            {
+                "titulo":"Bife Chorizo",
+                "precio":"$18.500",
+                "descripcion":"Corte de lomo vetado a la parrilla sazonado con nuestra deliciosa peperonata",
+                "img":"bife-chorizo.png"
+            },
+            {
+                "titulo":"Chorizo Parrillero Agregado",
+                "precio":"$6.980",
+                "descripcion":"Porcion de 2 unidades de chorizo asados a la parrilla. (Producto disponible sólo por la compra de alguna parrilla)",
+                "img":"chorizo-parrillero.png"
+            },
+            {
+                "titulo":"Chunchules",
+                "precio":"$8.980",
+                "descripcion":"Porcion de interiores de vacuno dorados a la parrilla (Producto disponible sólo por la compra de alguna parrilla)",
+                "img":"chunchuil.png"
+            },
+            {
+                "titulo":"Costillar a la Chilena",
+                "precio":"$13.980",
+                "descripcion":"",
+                "img":"costillar-a-lla-chilena.png"
+            },
+            {
+                "titulo":"Costillar BBQ",
+                "precio":"$13.980",
+                "descripcion":"",
+                "img":"costillar-bbq.png"
+            },
+            {
+                "titulo":"Filete de Vacuno",
+                "precio":"$13.980",
+                "descripcion":"Corte de filete a la parrilla sazonado con nuestra deliciosa peperonata",
+                "img":"filete.png"
+            },
+            {
+                "titulo":"Lomo Vetado de Vacuno",
+                "precio":"$13.980",
+                "descripcion":"Corte de lomo vetado a la parrilla sazonado con nuestra deliciosa peperonata",
+                "img":"lomo-vetado-de-vacuno.png"
+            },
+            {
+                "titulo":"Parrilla Clásica",
+                "precio":"$48.500",
+                "descripcion":"Trozos de lomo de vacuno, chuletas asadas, porcion de chorizo y prietas",
+                "img":"parrilla-clasica.png"
+            },
+            {
+                "titulo":"Parrilla Especial",
+                "precio":"$49.800",
+                "descripcion":"Trozos de lomo de vacuno, 1/4 de pollo deschuesado, chuletas asadas y porcion de chorizo.",
+                "img":"parrilla-especial.png"
+            },
+            {
+                "titulo":"Parrilla LBM",
+                "precio":"$65.000",
+                "descripcion":"Biffe de chorizo de lomo de vacuno, chuletas asadas, porcion de chorizos parrillaros, filete de vacuno baldado y porcion de plateada ahumada",
+                "img":"parrilla-lbm.png"
+            },
+            {
+                "titulo":"Pollo Deshuesado a la Plancha",
+                "precio":"$11.500",
+                "descripcion":"1/4 de Pechuga de pollo deshuesada asada a la parrilla sazonado con nuestra sabroza peperonata",
+                "img":"pollo-deshuesado.png"
+            },
+            {
+                "titulo":"Prietas Agregado",
+                "precio":"$6.980",
+                "descripcion":"Porcion de 2 unidades de prietas asadas a la parrilla (Producto disponible sólo por la compra de alguna parrilla)",
+                "img":"prietas-agregado.png"
+            },
+            {
+                "titulo":"Ubres",
+                "precio":"$9.500",
+                "descripcion":"Porcion de interiores de vacuno doradas a la parrilla",
+                "img":"ubres.jpg"
+            },
+            {
+                "titulo":"Combo Aniversario Para 2",
+                "precio":"$39.500",
+                "descripcion":"2 lomos, 2 chorizos, 1 chuletas, 1 trozos de pollo (trutro corto), Papas cocidas, Ensalada chilena chica y Botella de vino Misiones de Rengo varietal",
+                "img":"Combo-Aniversario-scaled.jpeg"
+            },
+            {
+                "titulo":"Combo Aniversario Para 4",
+                "precio":"$59.500",
+                "descripcion":"4 lomos, 4 chorizos, 2 chuletas, 2 trozos de pollo (trutro corto), Papas cocidas, Ensalada chilena grande y Botella de vino Misiones de Rengo varietal",
+                "img":"Combo-Aniversario-scaled.jpeg"
+            }
+        ]
+    },
+    {
+        "categoria":"Cortes Premium",
+        "icono":"outdoor_grill",
+        "stock":[
+            {
+                "titulo":"Asado de Tira Angus",
+                "precio":"$24.500",
+                "descripcion":"Corte de asado de tira angus de 450 grs asado junto a nuestra sabrosa peperonata",
+                "img":"asado-de-tira.png"
+            },
+            {
+                "titulo":"Bife las Lilas",
+                "precio":"$22.000",
+                "descripcion":"Corte premium de vacuno argentino",
+                "img":"bife-chorizo-1.png"
+            },
+            {
+                "titulo":"Entraña Americana",
+                "precio":"$25.000",
+                "descripcion":"Corte fino de entraña americanda asada en su punto junto a uestra deliciosa peperonata",
+                "img":"emtrana-americana.png"
+            },
+            {
+                "titulo":"Tomahawk",
+                "precio":"$26.500",
+                "descripcion":"",
+                "img":"tomahawk.png"
+            }
+        ]
+    },
+    {
+        "categoria":"Pastas y Salsas",
+        "icono":"dinner_dining",
+        "stock":[
+            {
+                "titulo":"Fetuccini",
+                "precio":"$6.980",
+                "descripcion":"Porcion de pasta fresca de huevo cocida al vapor",
+                "img":"Screenshot_1.png"
+            },
+            {
+                "titulo":"Salsa Alfredo",
+                "precio":"$4.580",
+                "descripcion":"Salsa italiana en base a leche, mantequilla, queso parmesano y cubitos de jamon (Imagen referencial, no incluye pasta)",
+                "img":"salsa-alfredo.png"
+            },
+            {
+                "titulo":"Salsa Pesto",
+                "precio":"$3.280",
+                "descripcion":"Salsa italiana en base a Albahaca fresca y aceite de olviva.(Imagen referencial, no incluye pasta)",
+                "img":"salsa-pesto.png"
+            },
+            {
+                "titulo":"Salsa de Camarón Salteado",
+                "precio":"$6.980",
+                "descripcion":"Salsa de camarones salteados en una reduccion de crema de leche.(Imagen referencial, no incluye pasta)",
+                "img":"salsa-camron.png"
+            },
+            {
+                "titulo":"Salsa Pimienta",
+                "precio":"$3.500",
+                "descripcion":"Salsa en base a crema de leche con un delicioso sabor a pimienta.(Imagen referencial, no incluye pasta)",
+                "img":"salsa-pimienta2.png"
+            },
+            {
+                "titulo":"Salsa Pomodoro",
+                "precio":"$3.280",
+                "descripcion":"Salsa de pulpa de tomate sazonado con un toque de albahaca (Imagen referencial, no incluye pasta)",
+                "img":"salsa-pomodoro.png"
+            }
+        ]
+    },
+    {
+        "categoria":"Pescados",
+        "icono":"set_meal",
+        "stock":[
+            {
+                "titulo":"Merluza Austral a la Plancha",
+                "precio":"$12.580",
+                "descripcion":"",
+                "img":"merluza-austral.png"
+            },
+            {
+                "titulo":"Salmón a la Plancha",
+                "precio":"$12.980",
+                "descripcion":"Salmon Austral fresco bien dorado a la plancha",
+                "img":"salmon-a-la-plancha.png"
+            },
+            {
+                "titulo":"Salmón Saltado a la Peruana",
+                "precio":"$14.980",
+                "descripcion":"Trozos de salmon, tomate y cebolla, servidos junto a crocantes papas fritas y arroz.",
+                "img":"salmon-saltado.png"
+            }
+        ]
+    },
+    {
+        "categoria":"Acompañamientos",
+        "icono":"washoku",
+        "stock":[
+            {
+                "titulo":"Agregado a lo Pobre",
+                "precio":"$4.900",
+                "descripcion":"Compuesto de crujientes papas fritas, cebolla caramelizada y huevo frito.(Imagen referencial, no incluye carne)",
+                "img":"agregado-a-lo-pobre.png"
+            },
+            {
+                "titulo":"Arroz",
+                "precio":"$3.580",
+                "descripcion":"Porción de arroz graneado cocido al vapor junto un sabrozo sofrito de cebolla, zanahoria, pimentón y ajo.",
+                "img":"arroz.png"
+            },
+            {
+                "titulo":"Champiñon al Ajillo",
+                "precio":"5.980",
+                "descripcion":"",
+                "img":"champinones-al-ajillo.jpg"
+            },
+            {
+                "titulo":"Papas Cocidas",
+                "precio":"$3.580",
+                "descripcion":"Papas naturales cocidas al vapor",
+                "img":"Patatas-cocidas.jpg"
+            },
+            {
+                "titulo":"Papas Doradas",
+                "precio":"$4.580",
+                "descripcion":"Papas naturales bien doradas y crujientes",
+                "img":"papas-doradas.png"
+            },
+            {
+                "titulo":"Papas Fritas Grandes",
+                "precio":"$7.980",
+                "descripcion":"Porción familiar de papas que se frien hasta que esten bien doradas y crujientes",
+                "img":"papas-fritas-grandes.png"
+            },
+            {
+                "titulo":"Papas Provenzal",
+                "precio":"$5.580",
+                "descripcion":"Papas que se frien hasta que esten bien doradas y crujientes, salteadas en aceite de oliva, ajo y cilantro.",
+                "img":"papas-provenzal.png"
+            },
+            {
+                "titulo":"Papas san Pascual",
+                "precio":"$5.980",
+                "descripcion":"Papas chips bien doradas en salsa a base de crema con crujiente tocino.",
+                "img":"papas-san-pascual.png"
+            },
+            {
+                "titulo":"Pastelera",
+                "precio":"$4.580",
+                "descripcion":"Suave pasta de choclo molido.",
+                "img":"pastelera.png"
+            },
+            {
+                "titulo":"Puré de Papas",
+                "precio":"",
+                "descripcion":"Papas cocidas y molidas, saborizadas con leche, mantequilla y sal.",
+                "img":"pure-de-papas.png"
+            },
+            {
+                "titulo":"Puré Picante",
+                "precio":"$4.580",
+                "descripcion":"Pure de papas saborizado con salsa de ají molido.",
+                "img":"pure-picante.png"
+            },
+            {
+                "titulo":"Verduras Salteadas",
+                "precio":"$4.980",
+                "descripcion":"Deliciosas verduras salteadas de la estación en su punto.",
+                "img":"verduras-salteadas.png"
+            }
+        ]
+    },
+    {
+        "categoria":"Ensaladas",
+        "icono":"washoku",
+        "stock":[
+            {
+                "titulo":"Ensalada a la Chilena Grande",
+                "precio":"$8.280",
+                "descripcion":"Ensalada típica chilena en base a tomate en gajos con cebolla y cilántro.",
+                "img":"ensalada-chilena.png"
+            },
+            {
+                "titulo":"Ensalada Chilena Chica",
+                "precio":"$5.480",
+                "descripcion":"Ensalada tipica chilena en base a tomate en gajos con cebolla y cilantro.",
+                "img":"ensalada-chilena.png"
+            },
+            {
+                "titulo":"Ensalada César Camarones",
+                "precio":"$10.980",
+                "descripcion":"Ensalada en base a lechuga fresca, deliciosos tomate cherry, camarones salteados, queso parmesano en hebras y nuestro suave aderezo césar",
+                "img":"cesar-camarones.png"
+            },
+            {
+                "titulo":"Ensalada César Pollo",
+                "precio":"$9.580",
+                "descripcion":"Ensalada en base a lechuga fresca, deliciosos tomate cherry, tiritas de pollo a la parrilla, queso parmesano en hebras y nuestro suave aderezo césar",
+                "img":"cesar-pollo.png"
+            },
+            {
+                "titulo":"Ensalada de Quínoa",
+                "precio":"$6.980",
+                "descripcion":"Ensalada en base de quinoa, con tomate, pepino y palta en cubitos acompañado de nuestro delicioso dressing de naranja",
+                "img":"quinoa.png"
+            },
+            {
+                "titulo":"Ensalada del Huerto Chica",
+                "precio":"$5.980",
+                "descripcion":"Ensalada con lechuga fresca, gajos de tomate, esparrajos cocidos y fondos de alcachofa",
+                "img":"huerto-chica.png"
+            },
+            {
+                "titulo":"Ensalada del Huerto Grande",
+                "precio":"$8.980",
+                "descripcion":"Ensalada con lechuga fresca, gajos de tomate, esparrajos cocidos y fondos de alcachofa",
+                "img":"huerto-grande.png"
+            },
+            {
+                "titulo":"Ensalada Palmito Palta Chica",
+                "precio":"$6.580",
+                "descripcion":"Ensalada de suave palta y rodajas de palmitos",
+                "img":"palmito-chica.png"
+            },
+            {
+                "titulo":"Ensalada Palmito Palta Grande",
+                "precio":"$9.980",
+                "descripcion":"Ensalada de suave palta y rodajas de palmitos",
+                "img":"palmito-grande.png"
+            },
+            {
+                "titulo":"Ensalada Todo Verde Chica",
+                "precio":"$6.980",
+                "descripcion":"Ensalada con lechuga fresca, porotos verdes y esparragos cocidos y suave palta.",
+                "img":"todo-verde-chica-e1756824758495.png"
+            },
+            {
+                "titulo":"Ensalada Todo Verde Grande",
+                "precio":"$9.980",
+                "descripcion":"Ensalada con lechuga fresca, porotos verdes y esparragos cocidos y suave palta.",
+                "img":"todo-verde-grande.png"
+            }
+        ]
+    },
+    {
+        "categoria":"Para Niños",
+        "icono":"child_hat",
+        "stock":[
+            {
+                "titulo":"Pollo Crispy con Papas Fritas",
+                "precio":"$12.980",
+                "descripcion":"Platos especiales para nuestros pequeños",
+                "img":"menu-nino1.png"
+            }
+        ]
+    },
+    {
+        "categoria":"Sandwich",
+        "icono":"lunch_dining",
+        "stock":[
+            {
+                "titulo":"Churrasco Barros Luco",
+                "precio":"$9.500",
+                "descripcion":"Churrasco de lomo de vacuno con delicioso queso mantecoso fundido en crujiente pan ciabatta acompañado de papas fritas.",
+                "img":"barros-luco.png"
+            },
+            {
+                "titulo":"Churrasco Chacarero",
+                "precio":"$8.980",
+                "descripcion":"Churrasco de lomo de vacuno con rodajas de tomate fresco, poroto verde cocido y aji verde en un crujiente pan ciabatta acompañado de papas fritas.",
+                "img":"churrasco-chacarero.png"
+            },
+            {
+                "titulo":"Churrasco Italiano",
+                "precio":"$9.500",
+                "descripcion":"Churrasco de lomo de vacuno con rodajas de tomate fresco y suave palta en un crujiente pan ciabatta acompañado de papas fritas.",
+                "img":"churrasco-italiano.png"
+            },
+            {
+                "titulo":"Hamburguesa Cheese",
+                "precio":"$9.500",
+                "descripcion":"Jugosa hamburguesa casera al estilo americano con queso cheddar fundido en pan brioche acompañado de papas fritas.",
+                "img":"cheese.png"
+            },
+            {
+                "titulo":"Hamburguesa Italiana",
+                "precio":"$9.500",
+                "descripcion":"",
+                "img":"hamburguesa-italiana.png"
+            },
+            {
+                "titulo":"Pulled Pork",
+                "precio":"$8.980",
+                "descripcion":"Sabrozo sandwich de pulled pork ahumado, coleslow en base a repollo, crujientes papas hilo y pepinillos encurtidos en pan de papa y acompañado con papas rusticas saborizadas",
+                "img":"pulled-pork.png"
+            }
+        ]
+    },
+    {
+        "categoria":"Postres",
+        "icono":"cake",
+        "stock":[
+            {
+                "titulo":"Banana Split",
+                "precio":"$7.500",
+                "descripcion":"Sabrosa trilogía de helados en una cama de platano con crema chantilly y mix de frutas frescas.",
+                "img":"banana-split.png"
+            },
+            {
+                "titulo":"Brownie de Chocolate",
+                "precio":"$5.980",
+                "descripcion":"Bizcocho esponjoso y húmedo sabor chocolate con salsa de chocolate, crema chantilly, frutillas frescas y helado de vainilla",
+                "img":"brownie-de-chocolate.png"
+            },
+            {
+                "titulo":"Brownie Split",
+                "precio":"$6.280",
+                "descripcion":"Copa con base de trocitos de brownie, platano, frutilla, acompañado de crema chantilly y helado de vainilla.",
+                "img":"brownie-split.png"
+            },
+            {
+                "titulo":"Castañas en Almibar",
+                "precio":"$6.980",
+                "descripcion":"Castañas en su jugo",
+                "img":"castanas-en-almibar.png"
+            },
+            {
+                "titulo":"Copa LBM",
+                "precio":"$6.580",
+                "descripcion":"opa de helado de fantasía con una base de galletas de merengue casero, helado de frutilla, crema chantilly, macedonia de frutas y salsa toffee.",
+                "img":"copa-lbm.png"
+            },
+            {
+                "titulo":"Copa de Helado",
+                "precio":"$5.400",
+                "descripcion":"Deliciosos trilogía de helados de vainilla, frutilla y chocolate.",
+                "img":"copa-helado.png"
+            },
+            {
+                "titulo":"Leche Asada",
+                "precio":"$4.980",
+                "descripcion":"Postre típico chileno en base a leche y caramelo",
+                "img":"leche-asada.png"
+            },
+            {
+                "titulo":"Panqueque Celestino",
+                "precio":"$5.580",
+                "descripcion":"Panqueque relleno de manjar caliente espolvoreado con azucar flor.",
+                "img":"panqueque-celestino.png"
+            },
+            {
+                "titulo":"Papayas al Jugo",
+                "precio":"$6.980",
+                "descripcion":"Una delicia tropical traída directamente de los huertos de Chile.",
+                "img":"papayas-al-jugo.png"
+            },
+            {
+                "titulo":"Pavlova de Frutos Rojos",
+                "precio":"$7.980",
+                "descripcion":"Deliciosa base de merengue horneado con una macedonia de frutas de la estacion, crema chantilly, helado de vainilla y salsa de frutos rojos para compartir.",
+                "img":"pavlova.png"
+            },
+            {
+                "titulo":"Torta Merengue Frambuesa",
+                "precio":"$5.980",
+                "descripcion":"Típica torta helada con galletas de merengue, crema chantilly y frambuesas.",
+                "img":"torta-merengue.png"
+            },
+            {
+                "titulo":"Torta Tres Leches",
+                "precio":"$5.980",
+                "descripcion":"Biscocho remojado en una trilogía de lácteos con salsa de manjar y con una suave merengue.",
+                "img":"torta-tres-leches.png"
+            },
+            {
+                "titulo":"Volcán de Chocolate",
+                "precio":"$5.980",
+                "descripcion":"Delicioso biscocho de chololate caliente con su interior fundido acompañado de helado de vainilla.",
+                "img":"volcan-de-chocolate.png"
+            }
+        ]
+    }
+]

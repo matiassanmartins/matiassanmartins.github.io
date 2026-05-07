@@ -1,0 +1,56 @@
+.slider-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #212529;
+}
+
+#placeholder {
+  height: 0;
+}
+
+.fix-menu{
+    position: fixed!important;
+    overflow-x: auto;
+    background-color: rgba(0,0,0,0.5);
+    z-index: 9999;
+    top:0;
+}
+
+.contenedor {
+  display: flex;
+  overflow-x: auto;   /* 🔥 esto permite deslizar */
+  gap: 10px;
+  padding: 10px;
+  scroll-behavior: smooth;
+  white-space: nowrap;
+}
+
+.item {
+  height: 90px;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+  background-color: transparent;
+}
+
+.item.active {
+  color: white;
+  background-color: orange;
+}
+
+
+.flecha {
+  background: rgba(0,0,0,0.1);
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.izquierda {
+  left: 0;
+}
+
+.derecha {
+  right: 0;
+}
