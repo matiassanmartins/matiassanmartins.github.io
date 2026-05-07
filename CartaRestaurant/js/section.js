@@ -8,7 +8,6 @@ window.addEventListener("scroll", () => {
     const sectionTop = section.offsetTop - 180;
 
     if (scrollY >= sectionTop) {
-        console.log(current)
       current = section.getAttribute("id");
     }
   });
@@ -18,7 +17,6 @@ window.addEventListener("scroll", () => {
   links.forEach(link => {
     link.classList.remove("active");
     if (link.children[1].textContent === current) {
-        console.log("logrado")
       link.classList.add("active");
       active = link;
     }

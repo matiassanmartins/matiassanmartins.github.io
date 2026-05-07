@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", () => {
           const card = document.createElement("div");
           card.classList.add("card", "shadow-sm","carta");
           const img = document.createElement("img");
-          img.src = "/img/carta/" + stock.img;
+          img.src = "img/carta/" + stock.img;
           img.classList.add("img_carta");
           const card_body = document.createElement("div");
           card_body.classList.add("card-body");
