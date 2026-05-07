@@ -3,7 +3,7 @@
 }
 
 body{
-  background-image: url("/img/Misc/paralax.avif");
+  background-image: url("img/Misc/paralax.avif");
   min-height: 500px;
 
   /* Create the parallax scrolling effect */
