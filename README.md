@@ -8,6 +8,7 @@ Aunque el diseño estético y visual no es mi punto más fuerte, me enfoco en co
 * CSS3
 * JavaScript
 * Git & GitHub
+* Bootstrap
 
 🎯 Objetivo
 
