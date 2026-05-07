@@ -15,5 +15,6 @@ Seguir aprendiendo y desarrollando proyectos que me permitan mejorar tanto en fr
 
 “Prefiero un sitio simple que funcione bien, antes que uno bonito que no haga nada.”
 
-# Carta Restaurant
-[texto](matiassanmartins.github.io/CartaRestaurant)
+Puede ingresar a los sitios precionando en los siguientes hipervinculos:
+
+# [Carta Restaurant](matiassanmartins.github.io/CartaRestaurant)
